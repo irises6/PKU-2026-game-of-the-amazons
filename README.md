@@ -1,2 +1,2 @@
-# PKU-a--game-of-the-amazons
+# PKU 大一上计概A大作业 game of the amazons
 本项目使用C++结合EasyX图形库实现了亚马逊棋游戏的GUI界面和AI棋手。游戏支持人机对战和双人对战模式，具备菜单、人机对战、双人对战、存档、读档、退出游戏、悔棋等功能。
